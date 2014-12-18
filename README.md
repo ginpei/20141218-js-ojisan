@@ -84,7 +84,7 @@
 * 闇魔法
 * 黒魔術
 
-## teppeisさん「非同期テストを」
+## teppeisさん「Promise/非同期のテストを簡単にする新しいアサーションヘルパーのご紹介」
 
 <blockquote class="twitter-tweet" lang="ja"><p>今の資料です <a href="https://twitter.com/hashtag/JS%E3%82%AA%E3%82%B8%E3%82%B5%E3%83%B3?src=hash">#JSオジサン</a> / “Promise/非同期のテストを簡単にする新しいアサーションヘルパーのご紹介” <a href="http://t.co/SirliDvW8J">http://t.co/SirliDvW8J</a></p>&mdash; teppeis (@teppeis) <a href="https://twitter.com/teppeis/status/545550720057868289">2014, 12月 18</a></blockquote>
 
