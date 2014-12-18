@@ -98,7 +98,7 @@
 * QUnitは三桁のassert数を人力で管理している
 	* 「人間のやる事ではない」
 
-## グッドパッチ
+## グッドパッチの方による会社の紹介
 
 <blockquote class="twitter-tweet" lang="ja"><p>スポンサーはグッドパッチさん！！&#10;<a href="https://twitter.com/hashtag/JS%E3%82%AA%E3%82%B8%E3%82%B5%E3%83%B3?src=hash">#JSオジサン</a></p>&mdash; MD5500 (@MD5500) <a href="https://twitter.com/MD5500/status/545550495775875072">2014, 12月 18</a></blockquote>
 <blockquote class="twitter-tweet" lang="ja"><p>Goodpatchさん。ありがとう！ <a href="https://twitter.com/hashtag/JS%E3%82%AA%E3%82%B8%E3%82%B5%E3%83%B3?src=hash">#JSオジサン</a></p>&mdash; Sakuya Sugo (@Sakunyo) <a href="https://twitter.com/Sakunyo/status/545550527174422529">2014, 12月 18</a></blockquote>
